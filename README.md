@@ -44,7 +44,7 @@ A high-performance, client-side web application for viewing medical images and t
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd medical-viewer-app
+cd MedicalImageViewer
 ```
 
 2. Install dependencies:
